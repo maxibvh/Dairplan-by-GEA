@@ -1,0 +1,19 @@
+# Ghidra-Projektdateien (lokal, nicht teilen)
+*.gpr
+*.rep/
+*.lock
+*.lock~
+
+# Binärdateien / Analyseobjekte gehören nicht ins Repo
+*.dll
+*.exe
+*.dat
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
