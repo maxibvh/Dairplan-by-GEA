@@ -31,3 +31,9 @@ Ghidra · `strings` · `c++filt` · `file` · `od`
 
 Analyse zu Lehrzwecken. Beschreibt die Methodik statischer Binäranalyse,
 nicht die Umgehung von Kopierschutz.
+
+
+## Kontakt:
+Anfragen bitte an:
+
+## mexotaternos.sicherung@gmail.com
